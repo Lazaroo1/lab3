@@ -13,6 +13,6 @@ fun main() {
 
     println(iceCream.eat())
 
-    val discounted = burger.discountedPrice(20.0)
-    println("Hamburguesa con 20% de descuento: Q$discounted")
+    val discounted = burger.discountedPrice(25.0)
+    println("Hamburguesa con 25% de descuento: Q$discounted")
 }
